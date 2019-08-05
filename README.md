@@ -1,6 +1,6 @@
-#User interface for gogojungle config server
+# User interface for gogojungle config server
 
 ## How to setup
 
-1. Run yarn: `yarn`
-2. Run project: `npm start`
+1. Install dependencies: `yarn`
+2. Build: `npm start`
